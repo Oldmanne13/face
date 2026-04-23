@@ -26,3 +26,6 @@ Mulige forbedringer som bliver anvendt i
 Teknologier
 •	Python, TensorFlow, Keras, Google Colab 
 
+2. 9face_med_dropout.ipynb
+
+   I projektet "9face_dropout" forsøges de forslåede forbedringer i 1 del implementeret. Sen kommentare i koden
