@@ -29,3 +29,8 @@ Teknologier
 2. 9face_med_dropout.ipynb
 
    I projektet "9face_dropout" forsøges de forslåede forbedringer i 1 del implementeret. Sen kommentare i koden
+
+
+   3 mindre rettelser i "face_dropout2"
+
+   Brug data fra https://drive.google.com/file/d/17cVuQi8JNSmriOq2OOBoRCvdygrWcbjt/view?usp=sharing
